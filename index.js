@@ -6,3 +6,10 @@ function theBeatlesPlay(mus, inst){
   
   return temp;
 }
+
+function johnLennonFacts(facts){
+  
+  for(var i=0; i<facts.length;i++){
+    facts[i]= 
+  }
+}
