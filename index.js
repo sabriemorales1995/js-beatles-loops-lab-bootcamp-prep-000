@@ -8,8 +8,8 @@ function theBeatlesPlay(mus, inst){
 }
 
 function johnLennonFacts(facts){
-  
-  for(var i=0; i<facts.length;i++){
+  var i=0;
+  while( i<facts.length;i++){
     facts[i]= 
   }
 }
